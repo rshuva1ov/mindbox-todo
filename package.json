@@ -1,4 +1,5 @@
 {
+  "homepage": "https://rshuva1ov.github.io/mindbox-todo/",
   "name": "mindbox-todo",
   "version": "0.1.0",
   "private": true,
@@ -27,8 +28,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -50,6 +51,7 @@
   },
   "devDependencies": {
     "@types/uuid": "^8.3.4",
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "github-pages": "^3.0.2"
   }
 }
