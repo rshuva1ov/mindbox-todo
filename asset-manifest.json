@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mindbox-todo/static/css/main.23f41f7b.css",
+    "main.js": "/mindbox-todo/static/js/main.41e0f1cb.js",
+    "index.html": "/mindbox-todo/index.html",
+    "static/media/radio_checked.svg": "/mindbox-todo/static/media/radio_checked.856747bf68af37e67d6afbe47c21d1fc.svg",
+    "static/media/radio_unchecked.svg": "/mindbox-todo/static/media/radio_unchecked.ed454a1f12a8e49abb7dceef05b778ce.svg",
+    "main.23f41f7b.css.map": "/mindbox-todo/static/css/main.23f41f7b.css.map",
+    "main.41e0f1cb.js.map": "/mindbox-todo/static/js/main.41e0f1cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23f41f7b.css",
+    "static/js/main.41e0f1cb.js"
+  ]
+}
